@@ -1,0 +1,30 @@
+.song-details{
+  border: 2px solid grey;
+  width:60%;
+  margin: auto;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #EEE;
+  text-align: center;
+}
+
+.header{
+  text-align: center;
+  color: red;
+  font-style: italic;
+  text-decoration:underline;
+}
+
+.position{
+  color: red;
+  text-decoration: underline;
+}
+.artist{
+  color: orange;
+}
+.title{
+  color: navy;
+}
+.image{
+  width: 150px;
+}

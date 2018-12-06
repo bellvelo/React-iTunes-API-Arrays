@@ -1,3 +1,8 @@
+React app using iTunes API to display Top 20
+
+![image](https://user-images.githubusercontent.com/39886049/49610813-8b76d980-f997-11e8-8895-2868327b6f28.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
